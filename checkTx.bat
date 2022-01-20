@@ -1,0 +1,1 @@
+AX6000_Txpower_checker.exe -addr="192.168.31.1" -targetTxPower=21 -password=YOUR_PASSWORD -interface=wl0
